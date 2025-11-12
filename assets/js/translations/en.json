@@ -1,0 +1,22 @@
+{
+    "welcome": {
+        "title": "Hi, I’m Arthur Ngouloubi 👋",
+        "subtitle": "Cybersecurity student (Montréal) — network security, threat analysis & AI integration.",
+        "paragraph": "I’m building a solid cybersecurity profile: network security, cryptography, intrusion detection and AI-driven automation. My goal: clear, reliable and well-documented solutions."
+    },
+    "articles": {
+        "title": "My Articles"
+    },
+    "education": {
+        "title": "Education"
+    },
+    "whoiam": {
+        "title": "Who I Am"
+    },
+    "experience": {
+        "title": "Work Experience"
+    },
+    "contact": {
+        "title": "Contact"
+    }
+}

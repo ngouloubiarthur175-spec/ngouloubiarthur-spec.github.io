@@ -1,0 +1,22 @@
+{
+    "welcome": {
+        "title": "Bonjour, je m’appelle Arthur Ngouloubi 👋",
+        "subtitle": "Étudiant en cybersécurité (Montréal) — sécurité des réseaux, analyse des menaces & intégration de l’IA.",
+        "paragraph": "Je construis un profil solide en cybersécurité : sécurité réseau, cryptographie, détection d’intrusions et automatisation par IA. Mon objectif : délivrer des solutions claires, fiables et documentées."
+    },
+    "articles": {
+        "title": "Mes Articles"
+    },
+    "education": {
+        "title": "Éducation"
+    },
+    "whoiam": {
+        "title": "Qui Je Suis"
+    },
+    "experience": {
+        "title": "Expérience Professionnelle"
+    },
+    "contact": {
+        "title": "Contact"
+    }
+}
